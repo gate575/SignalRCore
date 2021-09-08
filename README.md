@@ -1,0 +1,2 @@
+# SignalRCore
+SignalR  demo tutorial
